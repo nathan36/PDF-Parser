@@ -1,0 +1,115 @@
+Pattullo Bridge Daily Traffic Statistics
+Wednesday, June 6, 2018
+
+Northbound (NB)
+Southbound (SB)
+
+Time
+
+06/06/2018
+
+Totals
+
+Northbound (NB)
+
+35,301
+35,301
+
+Total (1-day)
+
+Southbound (SB)
+
+34,241
+34,241
+
+Total (1-day)
+
+Total
+69,542
+69,542
+
+Time
+
+06/06/2018
+
+Totals
+
+Bin 1
+62,377
+62,377
+
+Bin 2
+4,880
+4,880
+
+Bin 3
+1,933
+1,933
+
+Bin 4
+330
+330
+
+Bin 5
+
+22
+22
+
+Total
+69,542
+69,542
+
+Hourly Vehicle Counts by Direction(s)
+
+3,099
+
+2,500
+
+2,000
+
+1,500
+
+1,000
+
+500
+
+0
+
+Northbound (NB)
+
+Southbound (SB)
+
+00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+
+Bin Legend (BC TDP Standard Length Binning Scheme)
+
+Bin
+0
+1
+
+2
+
+3
+
+4
+5
+
+Length Range
+0.0 to 999.0 m Unknown
+0.0 to 6.0 m
+6.0 to 12.5 m Buses, two axle, 6 tire single unit trucks, three axle single unit trucks, four axle single unit
+
+Motorcycles, passenger cars, and light single unit trucks
+
+Description
+
+trucks
+
+12.5 to 22.5 m 4 or less axles, single trailer truck; five axle single trailer truck; six or more axle single trailer
+
+truck
+
+22.5 to 35.0 m B-trains; five axle, multi trailer truck; six axle, multi trailer truck; seven axle, multi trailer truck
+35.0 to 999.0 m Multi-Trailer
+
+
